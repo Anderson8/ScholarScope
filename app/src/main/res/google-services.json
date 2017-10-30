@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "347824321398",
+    "project_id": "firebase-scholarscope"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347824321398:android:3501416bdc23d39c",
+        "android_client_info": {
+          "package_name": "com.example.dalla.scholarscope2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347824321398-b5oq5po194eah2h9rjdjht941vqb3e7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dalla.scholarscope2",
+            "certificate_hash": "4ef800dbcf1b21d4601c4c2c6589c3efec65b8c3"
+          }
+        },
+        {
+          "client_id": "347824321398-qj72d171od5rfj8ft857bm794ir5v56t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANWfDjGM0ma52dVcXdduXYJc5ewA20qoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

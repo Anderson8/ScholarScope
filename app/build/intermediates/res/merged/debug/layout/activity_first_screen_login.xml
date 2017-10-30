@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_first_screen_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.dalla.scholarscope2.FirstScreenLogin">
+
+    <LinearLayout
+        android:layout_height="225dp"
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteY="8dp"
+        android:layout_marginRight="28dp"
+        app:layout_constraintRight_toRightOf="parent">
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="94dp"
+        android:layout_marginLeft="105dp"
+        android:layout_marginRight="95dp"
+        android:orientation="horizontal"
+        android:text="Welcome to Scolar Scope"
+        android:id="@+id/txt_view"
+        />
+
+    <com.google.android.gms.common.SignInButton
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginLeft="15dp"
+            android:id="@+id/btn_login"
+            >
+        </com.google.android.gms.common.SignInButton>
+<Button
+    android:layout_width="350dp"
+    android:layout_height="45dp"
+    android:layout_marginRight="50dp"
+    android:layout_marginLeft="15dp"
+    android:orientation="horizontal"
+    android:text="SignOut"
+    android:id="@+id/btn_logout"
+    />
+
+
+</LinearLayout>
+
+

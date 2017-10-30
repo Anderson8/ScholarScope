@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\be053eadce2163d8c8698fa2d351cc04f725831f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5f177233a6c2c58a7d9b8263d3cc3ee9dd5ec22\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dalla\.android\build-cache\8b5ea478dafdb0b4dbc92d530d56e35ff3416838\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\pre-dexed\debug\classes_f7f50252c77ba0c0202098dd6420f1352c245978.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_a01523c52c41f23f5b2946fa2a04db3bb606aec4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\71f693f78cb7332134148ab3b5a1090c5fdba1df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_891ff92e92a0f243b10fc2cc379f7260cd8e2065\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\fc0034e058fe58b35659c588c454a15fb3b5b10a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61c06ab9b71ce93285c7e2b57d84a23977cf77af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_af261852a942cca20315af35bd603803aed65c4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\e98c164b62cbfe42811752efaed20244e1cd429a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44bd553931e85ba131f4a0faeebd89e43906beef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\3aef0561495c9ac65effc5e0feabd3a1931e0ee7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12c1cbab3f12c98bc4b753c25a8e9d55b78e0643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\8b5ea478dafdb0b4dbc92d530d56e35ff3416838\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7f50252c77ba0c0202098dd6420f1352c245978\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\aa7b6614e10e666f2b08b264e507d229ceb4f3a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43a07b40565cc494f806b890c4b32f0a11e68508\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\libs\jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5df02f295714ac1b907d507dfea29a5a9f8f69ca">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.10.3_f169db0e822ed9bbb216fad6e02f20d5386704d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\02cfbb509d4265d51436251da37ffa0a7e809e64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ad25f10798238ac25c61b632ca4cb726d673db4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\2e49866f5237a68fd9db62f22818015895a5b68c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1573219989297c504898ea2e39370a44d9a570a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\8a3cbbc83933e1b7e74aefa54ac10a7f05e2da4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_215880a3178dc47b3cd592b5137efcc1febfc271\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dalla\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.3\b842f960942503cf1abbcc8c173a7f2c19d43726\jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\pre-dexed\debug\jsoup-1.10.3_b237ac1a9d7e93f19a3b94d7bf687ffa90d6e91c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\9b5f2524cddd5dc2cb3dc5b65d549a348799ce67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_598667203e3a40ff2eb09688eabf70c736dc6e0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\ded04c4d348f59c456c891c331f0d77c28c7a777\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32c60d45e24ae318fb3dbf132cef4db745cab07a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\f6804a64603ff83ec1d1ce5b3ef8ffeb0082e2c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc020d8ea91191e4caae8d4c670158bc56d9f0cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\libs\jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5df02f295714ac1b907d507dfea29a5a9f8f69ca">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\pre-dexed\debug\jsoup-1.10.3_f169db0e822ed9bbb216fad6e02f20d5386704d4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dalla\.android\build-cache\44fdd768d0f43ac078caa0f553302a6f7a1c4bc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\dalla\AndroidStudioProjects\ScholarScope2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03d3b9f1f8873a1d0977ff547cabba86fe1cee49\classes.dex" />
+    </item>
+
+</items>

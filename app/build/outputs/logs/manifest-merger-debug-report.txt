@@ -1,0 +1,302 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\24e1b33aa55a6d57532ea1eaba391c20b340dea2\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:10:22-69
+application
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:12:5-38:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\8b1e629db69d60482bd6065f3fd6046f5826a8a0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\af6661b282cd98446d3f78cbc473bcf9e0992682\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\9b46303f90501a5707c0901503c47de71f8d5bca\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\39273c1908413982bfeda4b324c4b98ff95e7e0a\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jessica Anderson\.android\build-cache\a6fc5f03cae2a635e2e63f48fc3d3b67576ec1c9\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\a15a378dd080e954c76a75b9d55838584c00f94f\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\24e1b33aa55a6d57532ea1eaba391c20b340dea2\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\18043cbe26f6e4c951fb4cb2ed910f14f1279566\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\53f8517d2c5cd71f6d97dc4fe38353adc9f3ee1f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\f01a3f92ca0730506a5fb9a29705ad4f31a846ac\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\ff4f8fa5e5674bd7bb32931fa2cd230f4fc39bbc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\bd8d112eb94bef882de17213b6a780cc71a70c92\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\5a5d7abafd4dd4aed57df81edb27847ea85a2bec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\f64203c64c6f8cdb22c40e10d1f1ad236ee7a7f5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\03b834db1c4efc7cec278f354a0500738e3fab33\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\3d7007d6c4971b56f8a0350863603dc8e8d5cac9\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:16:9-48
+	android:allowBackup
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.dalla.scholarscope2.MainActivity
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.example.dalla.scholarscope2.ScrollingActivity
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:29:9-32:59
+	android:label
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:31:13-61
+	android:theme
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:30:13-46
+activity#com.example.dalla.scholarscope2.LoginActivity
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:33:9-35:60
+	android:label
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:35:13-57
+	android:name
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:34:13-42
+activity#com.example.dalla.scholarscope2.FirstScreenLogin
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:36:9-63
+	android:name
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:36:19-51
+activity#com.example.dalla.scholarscope2.RegistrationActivity
+ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:37:9-58
+	android:name
+		ADDED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml:37:19-55
+uses-sdk
+INJECTED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\8b1e629db69d60482bd6065f3fd6046f5826a8a0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\af6661b282cd98446d3f78cbc473bcf9e0992682\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\c2676234043a6b098b53e7af27dfd98a83be1b20\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\9b46303f90501a5707c0901503c47de71f8d5bca\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Jessica Anderson\.android\build-cache\df09c1d2c172c98a83b90dd105f480a4a8a0e73e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\5cfd5a3f275462f3afe3e3de90a033dc61457df0\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\39273c1908413982bfeda4b324c4b98ff95e7e0a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jessica Anderson\.android\build-cache\a6fc5f03cae2a635e2e63f48fc3d3b67576ec1c9\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\a15a378dd080e954c76a75b9d55838584c00f94f\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\24e1b33aa55a6d57532ea1eaba391c20b340dea2\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\18043cbe26f6e4c951fb4cb2ed910f14f1279566\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\53f8517d2c5cd71f6d97dc4fe38353adc9f3ee1f\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\f01a3f92ca0730506a5fb9a29705ad4f31a846ac\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\ff4f8fa5e5674bd7bb32931fa2cd230f4fc39bbc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\bd8d112eb94bef882de17213b6a780cc71a70c92\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\5a5d7abafd4dd4aed57df81edb27847ea85a2bec\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\f64203c64c6f8cdb22c40e10d1f1ad236ee7a7f5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\03b834db1c4efc7cec278f354a0500738e3fab33\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\3d7007d6c4971b56f8a0350863603dc8e8d5cac9\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jessica Anderson\Downloads\ScholarScope2-20171022T173833Z-001\ScholarScope2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\8b1e629db69d60482bd6065f3fd6046f5826a8a0\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\af6661b282cd98446d3f78cbc473bcf9e0992682\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\c2676234043a6b098b53e7af27dfd98a83be1b20\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\9b46303f90501a5707c0901503c47de71f8d5bca\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\ff4f8fa5e5674bd7bb32931fa2cd230f4fc39bbc\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\bd8d112eb94bef882de17213b6a780cc71a70c92\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\5a5d7abafd4dd4aed57df81edb27847ea85a2bec\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\f64203c64c6f8cdb22c40e10d1f1ad236ee7a7f5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\03b834db1c4efc7cec278f354a0500738e3fab33\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\3d7007d6c4971b56f8a0350863603dc8e8d5cac9\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Jessica Anderson\.android\build-cache\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\39273c1908413982bfeda4b324c4b98ff95e7e0a\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\39273c1908413982bfeda4b324c4b98ff95e7e0a\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\39273c1908413982bfeda4b324c4b98ff95e7e0a\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\39273c1908413982bfeda4b324c4b98ff95e7e0a\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\24e1b33aa55a6d57532ea1eaba391c20b340dea2\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\24e1b33aa55a6d57532ea1eaba391c20b340dea2\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\24e1b33aa55a6d57532ea1eaba391c20b340dea2\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\24e1b33aa55a6d57532ea1eaba391c20b340dea2\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\18043cbe26f6e4c951fb4cb2ed910f14f1279566\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\18043cbe26f6e4c951fb4cb2ed910f14f1279566\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\18043cbe26f6e4c951fb4cb2ed910f14f1279566\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\18043cbe26f6e4c951fb4cb2ed910f14f1279566\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\18043cbe26f6e4c951fb4cb2ed910f14f1279566\output\AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\f01a3f92ca0730506a5fb9a29705ad4f31a846ac\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\f01a3f92ca0730506a5fb9a29705ad4f31a846ac\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Jessica Anderson\.android\build-cache\f01a3f92ca0730506a5fb9a29705ad4f31a846ac\output\AndroidManifest.xml:20:20-65
